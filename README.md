@@ -20,5 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# About me
+My favorite animal is dogs because I research on dogs.
 # List of Animal
 1. dog
