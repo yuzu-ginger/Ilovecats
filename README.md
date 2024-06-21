@@ -28,3 +28,4 @@ Goal - I want contributors to help me list some keyboards you are using or favor
 - Corne Chocolate v3 (Self-Made Keyboard)
 - REALFORCE
 - Razer BlackWidow Lite
+- Magic keyboard
