@@ -20,4 +20,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Project (Keyboard-Collection)
+
+Goal - I want contributors to help me list some keyboards you are using or favorite.
+
+# List of Keyboards
+1. Corn Chocolate (Self-Made Keyboard)
