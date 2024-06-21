@@ -21,5 +21,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Reading
-1. The Art of Readable Code
-2. The Three-Body Problem
+- The Art of Readable Code
+- The Three-Body Problem
