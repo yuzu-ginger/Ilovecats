@@ -21,6 +21,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Reading
-1. The Art of Readable Code
-2. The Three-Body Problem
-3. Algorithm and Data Structure
+- The Art of Readable Code
+- The Three-Body Problem
+- Algorithm and Data Structure
+- The Night Is Short, Walk on Girl.
+- Yumetan
+- Harry Potter
