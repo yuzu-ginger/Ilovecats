@@ -23,4 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Albums
 1. YANKEE - Kenshi Yonezu
 2. No Shame - Lily Allen
-3. Parsley, Sage, Rosemary and Thyme - Simon & Garfunkel
+3. Hikaru Utada Laughter in the Dark Tour 2018
+４. Born This Way - Lady Gaga mai
+5. Parsley, Sage, Rosemary and Thyme - Simon & Garfunkel
+
