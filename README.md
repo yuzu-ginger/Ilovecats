@@ -36,3 +36,4 @@ Goal - I want contributors to help me list some keyboards you are using or favor
 - Keyboardio Atreus
 - NuPhy Halo75
 - Keychron
+- hhkb
