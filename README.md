@@ -30,3 +30,5 @@ My favorite animal is dogs because I research on dogs.
 5. cat
 6. cat
 7. wolf
+8. elephant
+
