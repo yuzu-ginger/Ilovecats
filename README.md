@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - The Night Is Short, Walk on Girl.
 - Yumetan
 - Harry Potter
+- Hyouka
