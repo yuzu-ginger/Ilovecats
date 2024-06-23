@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Shogun Almighty: Reborn as Raiden With Unlimited Power 雷電将軍に転生したら、天下無敵になった
 - She Elicits Requirements and He Tests: Software Engineering Gender Bias in Large Language Models
 - The Saga of Tanya the Evil
+- Lord of the Rings
