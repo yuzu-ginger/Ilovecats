@@ -25,3 +25,6 @@ My favorite animal is dogs because I research on dogs.
 # List of Animal
 1. dog
 2. cat
+3. cat
+4. raccoon
+5. cat
