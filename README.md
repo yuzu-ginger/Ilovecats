@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 My favorite animal is dogs because I research on dogs.
 # List of Animal
 1. dog
+2. Cat
