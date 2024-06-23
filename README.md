@@ -24,4 +24,15 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 My favorite animal is dogs because I research on dogs.
 # List of Animal
 1. dog
-2. Java sparrow
+2. cat
+3. cat
+4. raccoon
+5. cat
+6. cat
+7. wolf
+8. elephant
+9. Lion
+10. orca
+11. Cat
+12. Java sparrow
+
