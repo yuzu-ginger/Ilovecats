@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some keyboards you are using or favor
 - Razer BlackWidow Lite
 - Magic keyboard
 - HHKB
+- Logicool G931
