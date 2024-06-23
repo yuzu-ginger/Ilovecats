@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Harry Potter
 - Hyouka
 - Blink (Malcolm Gladwell)
+- Shogun Almighty: Reborn as Raiden With Unlimited Power 雷電将軍に転生したら、天下無敵になった
